@@ -12,6 +12,7 @@ while True:
     print("3.Mul")
     print("4.Div")
     print("0.Exit")
+    print("-"*60)
 
     ch = int(input("enter your choice"))
 
