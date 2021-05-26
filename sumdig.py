@@ -11,4 +11,4 @@ def Sum(n):
 
 while 1:
     n = int(input("Enter a number"))
-    print (Sum(n)) 
+    print (Sum(n))
